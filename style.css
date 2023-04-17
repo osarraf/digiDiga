@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background-color: #FFFFFF;
+}
+
+.cabecalho {
+    display: flex;
+    
+}
+
+
+.cabecalho-imagem1 {
+    margin-left: 50px;
+    padding-top: 24px;
+    font-family: Padding, sans-serif;
+    font-size: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: row;
+    color: #A5410F;
+}
+
+.cabecalho-imagem2 {
+    margin-left: none;
+    padding-top: 24px;
+    font-family: Padding, sans-serif;
+    font-size: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: row;
+    color: #506269;
+}
+
+.cabecalho-menu-item:hover {
+    color: #731F07;
+
+}
+
+.cabecalho-menu {
+    margin-left: 1050px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 32px;
+    padding-top: 24px;
+    font-family: Pading, sans-serif;
+    color: #848484;
+    font-size: larger;
+}
+
+.conteudo-principal {
+    float: left;
+    margin-top: 420px;
+}
+
+.conteudo-principal-titulo {
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    color: #506269;
+    text-align: justify;
+    float: left;
+    margin-left: 50px;
+    font-size: 400%;
+    line-height: 95%;
+}
+
+.conteudo-principal-subtitulo {
+    padding-top: 180px;
+    font-family: Poppins, sans-serif;
+    font-weight: lighter;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: 189%;
+    }
+
+.conteudo-principal-botao {
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 80px;
+    width: 530px;
+    color: white;
+    background-color: #A5410F;
+    font-family: Poppins, sans-serif;
+    font-size: larger;
+
+}
+
+.conteudo-principal-imagem {
+    height: 700px;
+    width: 700px;
+    float: right;
+    margin-top: 260px;
+    margin-right: 50px;
+}
+
+.rodape-tracejado {
+    margin-left: 50px;
+    margin-top: 1060px;
+}

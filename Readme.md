@@ -1,0 +1,1 @@
+Olá! Esse projeto foi um desafio passado durante o curso de Full Stack da Tera,com o intuito de praticar HTML, CSS, Git e Github.
